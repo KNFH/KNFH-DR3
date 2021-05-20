@@ -1,2 +1,8 @@
 # KNFH-DR3
-سكربت درع الشرطة ك ايتم للكوستم فريم ورك | QBCore swat shield item
+
+# Get Started !
+1- Place the script in the `\resources` dir .
+2- Place the script start in `server.cfg` > `start KNFH-DR3` .
+3- Place the item in `QBCore` > `shared.lua` > 
+``` 	["shield"]                            = {["name"] = "shield",                           ["label"] = "labelhere",                     ["weight"] = 2000,         ["type"] = "item",         ["image"] = "shield.png",                 ["unique"] = true,         ["useable"] = true,     ["shouldClose"] = true,       ["combinable"] = nil,   ["description"] = "descaboutitem"},
+ ```
