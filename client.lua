@@ -5,11 +5,13 @@ local hadPistol = false
 local animDict = "combat@gestures@gang@pistol_1h@beckon"
 local animName = "0"
 
+-- Prop player handle it
 local prop = "prop_riot_shield"
+-- Weapon player handle it
 local item = GetHashKey("weapon_pistol_mk2")
 
-RegisterNetEvent('KNFH-DR3:CT:dr3')
-AddEventHandler('KNFH-DR3:CT:dr3', function()
+RegisterNetEvent('KNFH-DR3:Git:dr3')
+AddEventHandler('KNFH-DR3:Git:dr3', function()
     if shieldActive then
         DisableShield()
     else
