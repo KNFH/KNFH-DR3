@@ -8,8 +8,11 @@
 3- Place the item in `QBCore` > `shared.lua` > 
 
 ```
-
  	["shield"]                            = {["name"] = "shield",                           ["label"] = "labelhere",                     ["weight"] = 2000,         ["type"] = "item",         ["image"] = "shield.png",                 ["unique"] = true,         ["useable"] = true,     ["shouldClose"] = true,       ["combinable"] = nil,   ["description"] = "descaboutitem"},
-
-
  ```
+
+## QB-Logs
+
+```
+	["KNFH-DR3"] = "https://discord.com/api/webhooks/",
+```
