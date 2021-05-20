@@ -1,6 +1,6 @@
 # KNFH-DR3
 
-# Get Started !
+## Get Started !
 1- Place the script in the `\resources` dir.
 
 2- Place the script start in `server.cfg` > `start KNFH-DR3`.
